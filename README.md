@@ -12,17 +12,13 @@
 ## About The Submission
 ![Public demonstration GIF display of SAP technical assessment submission](public/demo_for_github.gif)
 
-<p style="text-align: justify;">
 This submission serves in fulfillment of the requirements for SAP's Generative AI COE technical assessment sent on 2 
 January 2024. This application is meant as a prototype Generative AI app utilizing OpenAI API and LangChain framework 
 to introduce myself to others. The application responds to queries and receives answers related to my profile, and it
 was developed entirely in Python, along with being dockerized in order to provide for an easier installation process.
-</p>
 
-<p style="text-align: justify;">
 Installation instructions and documentation and slides, detailing my ideas, design choices, and other insights can be 
 found below. Should there be any issues, please feel free to contact me!
-</p>
 
 <!-- INSTALLATION -->
 ## Installation
@@ -51,15 +47,14 @@ usage. Please give it up to a minute to rebuild the embeddings. Otherwise, you m
 7. Click on the <b>Apply Data</b> button to apply said settings. You may now use the application and configure 
 accordingly.
 
-<p style="text-align: justify;">
 You may also find a MP4 video step-by-step guide on the installation steps in the `/public/installation-guide.mp4` 
 directory.
-</p>
 
-<p style="text-align: justify;">
+
+
 Should you encounter any issues with the APIs such as insufficient credits or rate limits, please do not hesitate to 
 let me know. I will issue a new set of APIs for your reference.
-</p>
+
 
 <!-- DOCUMENTATION -->
 ## Documentation
