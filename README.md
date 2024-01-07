@@ -5,13 +5,14 @@
 
 ![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
 
-<a href="#installation">Installation</a> · <a href="#documentation">Documentation</a> · <a href="#contactme">Contact</a>
+<a href="#installation">Installation</a> · <a href="#documentation">Documentation</a> · <a href="#contact">Contact</a>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Submission
 ![Public demonstration GIF display of SAP technical assessment submission](public/demo_for_github.gif)
 
+<p style="text-align: justify;">
 This submission serves in fulfillment of the requirements for SAP's Generative AI COE technical assessment sent on 2 
 January 2024. This application is meant as a prototype Generative AI app utilizing OpenAI API and LangChain framework 
 to introduce myself to others. The application responds to queries and receives answers related to my profile, and it
@@ -19,6 +20,7 @@ was developed entirely in Python, along with being dockerized in order to provid
 
 Installation instructions and documentation and slides, detailing my ideas, design choices, and other insights can be 
 found below. Should there be any issues, please feel free to contact me!
+
 
 <!-- INSTALLATION -->
 ## Installation
@@ -57,7 +59,7 @@ let me know. I will issue a new set of APIs for your reference.
 ## Documentation
 Technical documentations detailing the architecture design, ideas, and my evaluations can be found in 
 `README-DOCUMENTATION.pdf`.  
-
+</p>
 <!-- CONTACT -->
 ## Contact
 Should you have any inquiries or issues with regards to this submission, please contact me as follows:
