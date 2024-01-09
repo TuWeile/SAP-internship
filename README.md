@@ -39,7 +39,7 @@ command in the Terminal.
     ```shell
     docker run -p 8501:8501 tuweile/sap-assignment:1.0.0
     ```
-4. Once the container has been initialized and is running, go to http://0.0.0.0:8501 to enter into the application.
+4. Once the container has been initialized and is running, go to http://localhost:8501 to enter into the application.
 5. Unlock the file `api_keys.pdf` with the password sent via email in response to the technical assessment. Enter the
 API keys (OpenAI and Pinecone) and the environment value (Pinecone) into the configuration sidebar. 
 6. If need be, you may customize the chunk size, the chunk overlap, or the k value for response generation for your own
@@ -47,10 +47,9 @@ usage. Please give it up to a minute to rebuild the embeddings. Otherwise, you m
 7. Click on the <b>Apply Data</b> button to apply said settings. You may now use the application and configure 
 accordingly.
 
-You may also find a MP4 video step-by-step guide on the installation steps in the `/public/installation-guide.mp4` 
-directory.
-
-
+You may also find a M4V (MP4) video step-by-step guide on the installation steps in the `/public/installation-guide.m4v` 
+directory. The installation guide for [Windows](public/installation-guide-Windows.m4v) and 
+[MacOS](public/installation-guide-macOS.m4v) are linked for your reference.
 
 Should you encounter any issues with the APIs such as insufficient credits or rate limits, please do not hesitate to 
 let me know. I will issue a new set of APIs for your reference.
